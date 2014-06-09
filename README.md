@@ -8,7 +8,7 @@
 
 ## Install
 
-[![Chrome webstore](https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png)](https://chrome.google.com/webstore/detail/looptimer-for-youtube/ppkngaopjbflnckgfbppljnbmgjejedm)
+[![Chrome webstore](https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png)](https://chrome.google.com/webstore/detail/backlognotifieduserafterc/jlfajeekcgkoenijmojhhkfjgpmmmnfe)
 
 ## Licence
 MIT
