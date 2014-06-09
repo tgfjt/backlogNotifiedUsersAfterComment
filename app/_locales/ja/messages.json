@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "backlogNotifiedUserAfterComment",
+    "description": "バックログのお知らせユーザー欄をコメントの下に移動させる"
+  },
+  "appDescription": {
+    "message": "Backlog NotifiedUser After Comment",
+    "description": "コメントを書いた後に、お知らせユーザーを選択したい人向け"
+  }
+}
